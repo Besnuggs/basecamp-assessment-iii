@@ -15,7 +15,7 @@ Show an understanding of the React concepts taught in Basecamp. This project sho
 ## Step 2
 
 * Clear out all styling from `App.css`.
-* Run `npm start` in your terminal to start your newly created app in the broswer.
+* Run `npm start` in your terminal to start your newly created app in the browser.
 * Don't worry, everything is fine! It should be a blank page.
 
 ## Step 3
